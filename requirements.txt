@@ -5,3 +5,4 @@ pygments==2.19.1
 mdurl==0.1.2
 pymongo==4.3.3
 qrcode[pil]==7.3.1
+hugchat==0.4.19
