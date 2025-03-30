@@ -82,7 +82,6 @@ packaging==23.1
 pandas==2.1.4
 pandocfilters==1.5.0
 parso==0.8.3
-password==0.2
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.0.0
@@ -112,7 +111,6 @@ pytz==2023.3.post1
 PyYAML==6.0
 pyzmq==25.1.0
 qrcode==8.0
-qrcode-artistic==3.0.2
 qtconsole==5.4.3
 QtPy==2.3.1
 regex==2024.11.6
