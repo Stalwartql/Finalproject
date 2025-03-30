@@ -1,5 +1,5 @@
 import streamlit as st
-from auth import register, login
+from auth1 import register, login
 import random
 import pandas as pd
 import time
@@ -9,7 +9,6 @@ import io
 from unsplashAPI import get_unsplash_image
 from hugchat.login import Login
 from hugchat import hugchat
-import base64
 
 # Initialize session state for authentication
 if "logged_in" not in st.session_state:
