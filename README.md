@@ -2,8 +2,7 @@ ZenStudy 📚
 ZenStudy is a web-based study planner and productivity application developed using Python and Streamlit. 
 The project was inspired by an earlier university project (“BookExploring”) and expanded into a more advanced, feature-rich tool designed to support users in managing their study workflow efficiently.
 
-🌐 Live Demo
-👉 https://zenstudy.streamlit.app/
+🌐 👉 https://zenstudy.streamlit.app/
 
 📌 About
 ZenStudy was developed as part of a university project and extended into a comprehensive productivity application. 
